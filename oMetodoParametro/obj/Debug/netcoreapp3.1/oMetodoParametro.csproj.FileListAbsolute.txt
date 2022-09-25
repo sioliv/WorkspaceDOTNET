@@ -1,0 +1,13 @@
+/home/silvia/Documents/WorkspaceDOTNET/oMetodoParametro/obj/Debug/netcoreapp3.1/oMetodoParametro.csprojAssemblyReference.cache
+/home/silvia/Documents/WorkspaceDOTNET/oMetodoParametro/obj/Debug/netcoreapp3.1/oMetodoParametro.AssemblyInfoInputs.cache
+/home/silvia/Documents/WorkspaceDOTNET/oMetodoParametro/obj/Debug/netcoreapp3.1/oMetodoParametro.AssemblyInfo.cs
+/home/silvia/Documents/WorkspaceDOTNET/oMetodoParametro/obj/Debug/netcoreapp3.1/oMetodoParametro.csproj.CoreCompileInputs.cache
+/home/silvia/Documents/WorkspaceDOTNET/oMetodoParametro/bin/Debug/netcoreapp3.1/oMetodoParametro
+/home/silvia/Documents/WorkspaceDOTNET/oMetodoParametro/bin/Debug/netcoreapp3.1/oMetodoParametro.deps.json
+/home/silvia/Documents/WorkspaceDOTNET/oMetodoParametro/bin/Debug/netcoreapp3.1/oMetodoParametro.runtimeconfig.json
+/home/silvia/Documents/WorkspaceDOTNET/oMetodoParametro/bin/Debug/netcoreapp3.1/oMetodoParametro.runtimeconfig.dev.json
+/home/silvia/Documents/WorkspaceDOTNET/oMetodoParametro/bin/Debug/netcoreapp3.1/oMetodoParametro.dll
+/home/silvia/Documents/WorkspaceDOTNET/oMetodoParametro/bin/Debug/netcoreapp3.1/oMetodoParametro.pdb
+/home/silvia/Documents/WorkspaceDOTNET/oMetodoParametro/obj/Debug/netcoreapp3.1/oMetodoParametro.dll
+/home/silvia/Documents/WorkspaceDOTNET/oMetodoParametro/obj/Debug/netcoreapp3.1/oMetodoParametro.pdb
+/home/silvia/Documents/WorkspaceDOTNET/oMetodoParametro/obj/Debug/netcoreapp3.1/oMetodoParametro.genruntimeconfig.cache
