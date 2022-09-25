@@ -7,7 +7,10 @@ namespace EstruturaHomogeneaDados
         static void Main(string[] args)
         {
             Console.WriteLine("Vetor!!");
-            Console.WriteLine("blablablablablaaa");
+            
+            Console.WriteLine("Digite qualquer tecla para sair...");
+
+            Console.ReadKey();
         }
     }
 }
