@@ -1,0 +1,13 @@
+/home/silvia/Documents/WorkspaceDOTNET/EstruturaHomogeneaDados/bin/Debug/netcoreapp3.1/EstruturaHomogeneaDados
+/home/silvia/Documents/WorkspaceDOTNET/EstruturaHomogeneaDados/bin/Debug/netcoreapp3.1/EstruturaHomogeneaDados.deps.json
+/home/silvia/Documents/WorkspaceDOTNET/EstruturaHomogeneaDados/bin/Debug/netcoreapp3.1/EstruturaHomogeneaDados.runtimeconfig.json
+/home/silvia/Documents/WorkspaceDOTNET/EstruturaHomogeneaDados/bin/Debug/netcoreapp3.1/EstruturaHomogeneaDados.runtimeconfig.dev.json
+/home/silvia/Documents/WorkspaceDOTNET/EstruturaHomogeneaDados/bin/Debug/netcoreapp3.1/EstruturaHomogeneaDados.dll
+/home/silvia/Documents/WorkspaceDOTNET/EstruturaHomogeneaDados/bin/Debug/netcoreapp3.1/EstruturaHomogeneaDados.pdb
+/home/silvia/Documents/WorkspaceDOTNET/EstruturaHomogeneaDados/obj/Debug/netcoreapp3.1/EstruturaHomogeneaDados.csprojAssemblyReference.cache
+/home/silvia/Documents/WorkspaceDOTNET/EstruturaHomogeneaDados/obj/Debug/netcoreapp3.1/EstruturaHomogeneaDados.AssemblyInfoInputs.cache
+/home/silvia/Documents/WorkspaceDOTNET/EstruturaHomogeneaDados/obj/Debug/netcoreapp3.1/EstruturaHomogeneaDados.AssemblyInfo.cs
+/home/silvia/Documents/WorkspaceDOTNET/EstruturaHomogeneaDados/obj/Debug/netcoreapp3.1/EstruturaHomogeneaDados.csproj.CoreCompileInputs.cache
+/home/silvia/Documents/WorkspaceDOTNET/EstruturaHomogeneaDados/obj/Debug/netcoreapp3.1/EstruturaHomogeneaDados.dll
+/home/silvia/Documents/WorkspaceDOTNET/EstruturaHomogeneaDados/obj/Debug/netcoreapp3.1/EstruturaHomogeneaDados.pdb
+/home/silvia/Documents/WorkspaceDOTNET/EstruturaHomogeneaDados/obj/Debug/netcoreapp3.1/EstruturaHomogeneaDados.genruntimeconfig.cache
